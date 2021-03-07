@@ -1,5 +1,8 @@
 # Dogs-Vs-Cats-Classifier
 
+
+[Tom&Spike]: https://i.ytimg.com/vi/Fp0aLxB4KQs/hqdefault.jpg "Tom vs Spike"
+
 My solution to the kaggle playgorund challenge - [Dogs vs Cats Classifier](https://www.kaggle.com/c/dogs-vs-cats/)
 I have used a from-scratch implementation of Resnet-50 Architecture. 
 Finally, have also used the pretrained Resnet-50 architecture which gives mad accuracy.
